@@ -1,0 +1,24 @@
+Key,Parameter,ja-jp,en-us,zh-cn,zh-tw,ko-kr,es-es,ar-sa,id-id
+PaperCutoutEffectName,,ペーパーカットアウト,Paper Cutout,Paper Cutout,Paper Cutout,Paper Cutout,Paper Cutout,Paper Cutout,Paper Cutout
+TagPaper,,紙,Paper,Paper,Paper,Paper,Paper,Paper,Paper
+TagCutout,,切り絵,Cutout,Cutout,Cutout,Cutout,Cutout,Cutout,Cutout
+TagLayer,,レイヤー,Layer,Layer,Layer,Layer,Layer,Layer,Layer
+TagCraft,,クラフト,Craft,Craft,Craft,Craft,Craft,Craft,Craft
+LayerCountName,,階層数,Layers,Layers,Layers,Layers,Layers,Layers,Layers
+LayerCountDesc,,輝度から自動生成する紙の階層数を指定します。,Sets how many paper layers are generated automatically from luminance.,Sets how many paper layers are generated automatically from luminance.,Sets how many paper layers are generated automatically from luminance.,Sets how many paper layers are generated automatically from luminance.,Sets how many paper layers are generated automatically from luminance.,Sets how many paper layers are generated automatically from luminance.,Sets how many paper layers are generated automatically from luminance.
+DepthName,,奥行き,Depth,Depth,Depth,Depth,Depth,Depth,Depth
+DepthDesc,,階層境界に落とす影の距離をpxで指定します。,Sets the shadow distance at layer boundaries in pixels.,Sets the shadow distance at layer boundaries in pixels.,Sets the shadow distance at layer boundaries in pixels.,Sets the shadow distance at layer boundaries in pixels.,Sets the shadow distance at layer boundaries in pixels.,Sets the shadow distance at layer boundaries in pixels.,Sets the shadow distance at layer boundaries in pixels.
+ShadowName,,影,Shadow,Shadow,Shadow,Shadow,Shadow,Shadow,Shadow
+ShadowDesc,,紙の段差で発生する影の強さを調整します。,Adjusts shadow strength created by paper height differences.,Adjusts shadow strength created by paper height differences.,Adjusts shadow strength created by paper height differences.,Adjusts shadow strength created by paper height differences.,Adjusts shadow strength created by paper height differences.,Adjusts shadow strength created by paper height differences.,Adjusts shadow strength created by paper height differences.
+ReliefName,,段差,Relief,Relief,Relief,Relief,Relief,Relief,Relief
+ReliefDesc,,切り口の明暗差と立体感を調整します。,Adjusts brightness contrast and relief around cut edges.,Adjusts brightness contrast and relief around cut edges.,Adjusts brightness contrast and relief around cut edges.,Adjusts brightness contrast and relief around cut edges.,Adjusts brightness contrast and relief around cut edges.,Adjusts brightness contrast and relief around cut edges.,Adjusts brightness contrast and relief around cut edges.
+GrainName,,紙目,Paper Grain,Paper Grain,Paper Grain,Paper Grain,Paper Grain,Paper Grain,Paper Grain
+GrainDesc,,紙の繊維状のざらつきを調整します。,Adjusts fibrous paper grain.,Adjusts fibrous paper grain.,Adjusts fibrous paper grain.,Adjusts fibrous paper grain.,Adjusts fibrous paper grain.,Adjusts fibrous paper grain.,Adjusts fibrous paper grain.
+LightAngleName,,光の角度,Light Angle,Light Angle,Light Angle,Light Angle,Light Angle,Light Angle,Light Angle
+LightAngleDesc,,影とハイライトの向きを角度で指定します。,Sets the direction of shadows and highlights in degrees.,Sets the direction of shadows and highlights in degrees.,Sets the direction of shadows and highlights in degrees.,Sets the direction of shadows and highlights in degrees.,Sets the direction of shadows and highlights in degrees.,Sets the direction of shadows and highlights in degrees.,Sets the direction of shadows and highlights in degrees.
+ColorRetentionName,,元色,Source Color,Source Color,Source Color,Source Color,Source Color,Source Color,Source Color
+ColorRetentionDesc,,元画像の色を残す割合を調整します。,Adjusts how much of the source image color remains.,Adjusts how much of the source image color remains.,Adjusts how much of the source image color remains.,Adjusts how much of the source image color remains.,Adjusts how much of the source image color remains.,Adjusts how much of the source image color remains.,Adjusts how much of the source image color remains.
+PaperColorName,,紙色,Paper Color,Paper Color,Paper Color,Paper Color,Paper Color,Paper Color,Paper Color
+PaperColorDesc,,紙として混ぜ込む基準色を指定します。,Sets the base color blended in as paper.,Sets the base color blended in as paper.,Sets the base color blended in as paper.,Sets the base color blended in as paper.,Sets the base color blended in as paper.,Sets the base color blended in as paper.,Sets the base color blended in as paper.
+AmountName,,適用量,Amount,Amount,Amount,Amount,Amount,Amount,Amount
+AmountDesc,,元画像とペーパーカットアウト結果の混合量を調整します。,Adjusts the blend between the source image and the paper cutout result.,Adjusts the blend between the source image and the paper cutout result.,Adjusts the blend between the source image and the paper cutout result.,Adjusts the blend between the source image and the paper cutout result.,Adjusts the blend between the source image and the paper cutout result.,Adjusts the blend between the source image and the paper cutout result.,Adjusts the blend between the source image and the paper cutout result.
